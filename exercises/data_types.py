@@ -28,3 +28,4 @@ b=3.14
 c="Python编程"
 d= True
 t=(a,b,c,d)
+return t    
