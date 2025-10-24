@@ -19,3 +19,8 @@ def skip_multiples_of_three(n):
     """
     # 请在下方编写代码
     pass 
+n =input()
+for i in range(1,int(n)+1):
+    if i % 3 == 0:
+        continue    
+    print(i)
