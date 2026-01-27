@@ -19,3 +19,5 @@ def calculate_square_root(number):
     """
     # 请在下方编写代码
     pass 
+    import math
+    return math.sqrt(number)
